@@ -22,6 +22,9 @@ Designed a mobile signup screen with clean input structure and a clear CTA.
 Focused on minimal layout, user focus, and responsiveness.
 
 📁 [View Task Folder](https://www.linkedin.com/posts/kavipriya-a-s-14210232b_codsoft-internship-uiux-activity-7357752193686327296-y20-?utm_source=share&utm_medium=member_android&rcm=ACoAAFMhikIBep4aBdTD34w01IIlTALIiOxEHhs)
+[View Prototype](https://www.figma.com/proto/iGWQzp6zNUUX7pH67y7OuY/Restaurant-intern-CS?node-id=1-2&starting-point-node-id=1%3A2)
+
+
 
 ---
 
@@ -30,6 +33,7 @@ Built a responsive and accessible email layout suitable for newsletters or updat
 Typography, button, and content blocks were structured for clarity.
 
 📁 [View Task Folder](https://www.linkedin.com/posts/kavipriya-a-s-14210232b_codsoft-internship-uiux-activity-7357752994639011840-igIM?utm_source=share&utm_medium=member_android&rcm=ACoAAFMhikIBep4aBdTD34w01IIlTALIiOxEHhs)
+[View Prototype](https://www.figma.com/proto/iGWQzp6zNUUX7pH67y7OuY/Restaurant-intern-CS?node-id=191-4654)
 
 ---
 
@@ -38,6 +42,7 @@ Created a categorized restaurant menu with sections like Appetizers, Main Course
 Used card layouts, color-coded tags, and responsive alignment.
 
 📁 [View Task Folder](https://www.linkedin.com/posts/kavipriya-a-s-14210232b_codsoft-internship-uiux-activity-7357754709740294144-nySp?utm_source=share&utm_medium=member_android&rcm=ACoAAFMhikIBep4aBdTD34w01IIlTALIiOxEHhs)
+[View Prototype](https://www.figma.com/proto/iGWQzp6zNUUX7pH67y7OuY/Restaurant-intern-CS?node-id=226-4654&starting-point-node-id=226%3A4654)
 
 ---
 
@@ -50,5 +55,6 @@ Used card layouts, color-coded tags, and responsive alignment.
 
 
 ---
+
 
 > Thank you CodSoft for the internship experience!
